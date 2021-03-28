@@ -1,0 +1,14 @@
+ li {
+    display: flex;
+    margin-bottom: 1rem;
+} 
+
+img {
+    width: 350px;
+}
+
+#button {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
